@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@types/react": "^19.0.2",
+    "@types/react-dom": "^19.0.2",
+    "@vitejs/plugin-react": "^4.3.4",
+    "@welcome-ui/badge": "^6.1.1",
+    "@welcome-ui/box": "^6.1.1",
+    "@welcome-ui/core": "^6.4.0",
+    "@welcome-ui/flex": "^6.1.1",
+    "@welcome-ui/link": "^6.5.0",
+    "@welcome-ui/text": "^6.2.0",
+    "@xstyled/styled-components": "^4.0.0",
+    "react": "^19.0.0",
+    "react-query": "^3.39.3",
+    "styled-components": "^6.1.14"
+  },
+  "devDependencies": {
+    "@types/react-query": "^1.2.9",
+    "@types/react-router-dom": "^5.3.3"
+  }
+}
