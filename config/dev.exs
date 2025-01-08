@@ -3,7 +3,7 @@ import Config
 # Configure your database
 config :wttj, Wttj.Repo,
   username: "postgres",
-  password: "oic8dk4QYp7xAiHy7Wqh",
+  password: "VrTWpkj4bWVGNZbVKtre",
   hostname: "localhost",
   database: "KanbanDB",
   stacktrace: true,
